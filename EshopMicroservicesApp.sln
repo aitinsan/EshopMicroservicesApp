@@ -40,7 +40,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ordering.Infrastructure", "
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "APIGateway", "APIGateway", "{ACE4AF81-8E34-4F1E-A3BE-16FB8CAB2473}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OcelotAPIGateway", "src\APIGateway\OcelotAPIGateway\OcelotAPIGateway.csproj", "{B8FBEB7A-CAE6-4CD5-8458-7AAEF5430DF2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OcelotAPIGateway", "src\APIGateway\OcelotAPIGateway\OcelotAPIGateway.csproj", "{B8FBEB7A-CAE6-4CD5-8458-7AAEF5430DF2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
